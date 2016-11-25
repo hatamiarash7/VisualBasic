@@ -22,3 +22,7 @@ C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Movie.F
 C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Movie.Resources.resources
 C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Movie.SplashScreen1.resources
 C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Movie.vbproj.GenerateResource.Cache
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\bin\Debug\Archive Manager.exe.manifest
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\bin\Debug\Archive Manager.application
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Archive Manager.exe.manifest
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Archive Manager.application

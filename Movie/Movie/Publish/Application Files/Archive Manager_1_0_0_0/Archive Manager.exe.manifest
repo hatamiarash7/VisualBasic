@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Archive Manager.exe" version="1.0.0.0" publicKeyToken="cb169df3e5ff0c18" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Archive Manager" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Archive Manager.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Archive Manager.exe" size="714232">
+      <assemblyIdentity name="Archive Manager" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>hZLQc9qTCF1yFtQrH0RyL5prz6huXG/HUkrvlSC1uKY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Archive Manager.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>j5XMowm9qYcyNWR87Ke1KpLLXBlaYAR38CaZywZFE9o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=HATAMIARASH7\hatamiarash7" issuerKeyHash="66f3ee6e8df81226df35f1684b3a7cf564017c54" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ziLh9fwmoPGDnQC73A5BO4GacU2nj1+B6w3HF2k/Y7I=</DigestValue></Reference></SignedInfo><SignatureValue>QkDG9A0/BmbPwq40rb6V8Mty9uYH0+f42V2Qzijl3iXpBwyQ9cRypj2IgS8DefU0B1m8FJoBje4wfjfNkKAydOpmaW9LOw4H+HCqUw2eNyaBcNAjDndgE5/HeALQoBbvYhQTkAgdvX+ZkkOIaiLnBUylSF5aJQ2znJSxnGJ9NvE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>lKD5NPKQTIrgG221RdCYWKWxG0VYccU+Jx6nifFsOiMYCO2q+qzsPypWpWy9vqflOh8jjO8QMtfbjECI4+o6K9nmPGaoHg4Lb2mtDjOXW0He3tiTh/Dwb5+1pM9dnrtVqXo1I8w/CXrldq0LqEDLZxgD8OoSfEYMCbL1Jld2nI0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b2633f6917c70deb815f8fa74d719a813b410edcbb009d83f1a026fcf5e122ce" Description="" Url=""><as:assemblyIdentity name="Archive Manager.exe" version="1.0.0.0" publicKeyToken="cb169df3e5ff0c18" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=HATAMIARASH7\hatamiarash7</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>mxpgHDOXVSQutOS0mYVehP8wuMIdPPbDNcsZQxsbO38=</DigestValue></Reference></SignedInfo><SignatureValue>ZPS21zyH++zf0cFc9HL+HO4IgE0YqhqsxGR7cXzyF9PRYJ1wftFScCyaoGfGrX5Q4shhlYcP3jTYvNHA/CD/K9qvitivYfaN1u4yYVAE8323OHMkc0cI4GHOua02k6mhRED2z3qulQJSOwo/KZ7nIw0+nLM7h3Vq3kjQyyypvbI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>lKD5NPKQTIrgG221RdCYWKWxG0VYccU+Jx6nifFsOiMYCO2q+qzsPypWpWy9vqflOh8jjO8QMtfbjECI4+o6K9nmPGaoHg4Lb2mtDjOXW0He3tiTh/Dwb5+1pM9dnrtVqXo1I8w/CXrldq0LqEDLZxgD8OoSfEYMCbL1Jld2nI0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQV/xaZ1wGhKxBxVg/jl9PhTANBgkqhkiG9w0BAQsFADA9MTswOQYDVQQDHjIASABBAFQAQQBNAEkAQQBSAEEAUwBIADcAXABoAGEAdABhAG0AaQBhAHIAYQBzAGgANzAeFw0xNjExMjUxODU5MTRaFw0xNzExMjYwMDU5MTRaMD0xOzA5BgNVBAMeMgBIAEEAVABBAE0ASQBBAFIAQQBTAEgANwBcAGgAYQB0AGEAbQBpAGEAcgBhAHMAaAA3MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCUoPk08pBMiuAbbbVF0JhYpbEbRVhxxT4nHqeJ8Ww6IxgI7ar6rOw/KlalbL2+p+U6HyOM7xAy19uMQIjj6jor2eY8ZqgeDgtvaa0OM5dbQd7e2JOH8PBvn7Wkz12eu1WpejUjzD8JeuV2rQuoQMtnGAPw6hJ8RgwJsvUmV3acjQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAC4r9bzAakNti6rOQAj/wc/xbsl58+SgeB1Nr7xeBQmZxrEISzXuBvr6Nq/AFaZA5995DZsED38mAU3NB61gXyIHHhujFAB7cDRbtt/5wWeplezI3j9IIrI10LDQXSt2HQt4zVNS1DLBi65N3fKyNkkjzlMXAeya53ou+p8bF0l4</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
