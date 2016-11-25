@@ -1,0 +1,24 @@
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.vbprojResolveAssemblyReference.cache
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.Form1.resources
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.Resources.resources
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.vbproj.GenerateResource.Cache
+C:\Users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Movie.SplashScreen1.resources
+C:\Users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\bin\Debug\Archive Manager.exe.config
+C:\Users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\bin\Debug\Archive Manager.exe
+C:\Users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\bin\Debug\Archive Manager.pdb
+C:\Users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\bin\Debug\Archive Manager.xml
+C:\Users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Archive Manager.exe
+C:\Users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Archive Manager.xml
+C:\Users\hatamiarash7\documents\visual studio 2015\Projects\Movie\Movie\obj\Debug\Archive Manager.pdb
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\bin\Debug\Archive Manager.exe.config
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Archive Manager.exe
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Archive Manager.xml
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Archive Manager.pdb
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\bin\Debug\Archive Manager.exe
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\bin\Debug\Archive Manager.pdb
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\bin\Debug\Archive Manager.xml
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Movie.vbprojResolveAssemblyReference.cache
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Movie.Form1.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Movie.Resources.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Movie.SplashScreen1.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Movie\Movie\obj\Debug\Movie.vbproj.GenerateResource.Cache

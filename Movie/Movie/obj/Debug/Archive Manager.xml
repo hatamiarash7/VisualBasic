@@ -1,0 +1,95 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Archive Manager
+</name>
+</assembly>
+<members>
+<member name="T:Movie.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Movie.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Movie.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Movie.Form1">
+ <summary>
+ Author : Arash Hatami
+ Email : hatamiarash7@gmail.com
+ Website : http://arash-hatami.ir
+ </summary>
+</member>
+<member name="M:Movie.Form1.Form1_Load(System.Object,System.EventArgs)">
+ <summary>
+ Form Loading Sub
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Movie.Form1.Button1_Click(System.Object,System.EventArgs)">
+ <summary>
+ Call Finding Function
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Movie.Form1.Find_Movie(System.String)">
+ <summary>
+ Find Movie In Database
+ </summary>
+ <param name="Name">Movie's Name</param>
+ <returns>True/False For Finding The Movie</returns>
+</member>
+<member name="M:Movie.Form1.Add_Movie(System.String,System.String,System.Int32,System.String,System.String,System.Decimal,System.Int32,System.Boolean,System.Boolean)">
+ <summary>
+ Add Movie To Database
+ </summary>
+ <param name="Name">Movie's Name</param>
+ <param name="Code">Movie's Code</param>
+ <param name="Year">Movie's Year</param>
+ <param name="Genre">Movie's Genre</param>
+ <param name="Director">Movie's Director</param>
+ <param name="Point">Movie's Point</param>
+ <param name="Age">Movie's Age</param>
+ <param name="Seen">Movie's Seen Status</param>
+ <param name="Exist">Movie's Exist Status</param>
+ <returns>True/Flse For Adding Movie To Database</returns>
+</member>
+<member name="T:Movie.Form1.Movie">
+ <summary>
+ Class For Save Movie's Info
+ </summary>
+</member>
+<member name="M:Movie.Form1.Button2_Click(System.Object,System.EventArgs)">
+ <summary>
+ Open Movie's Webpage
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Movie.Form1.Button3_Click(System.Object,System.EventArgs)">
+ <summary>
+ Call Add Movie Function And Send Info
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Movie.Form1.Button4_Click(System.Object,System.EventArgs)">
+ <summary>
+ Clear All Fields
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
