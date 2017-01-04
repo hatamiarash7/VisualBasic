@@ -1,0 +1,24 @@
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\bin\Debug\Crawler.exe.config
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\bin\Debug\Crawler.exe
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\bin\Debug\Crawler.pdb
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\bin\Debug\Crawler.xml
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\obj\Debug\Crawler.vbprojResolveAssemblyReference.cache
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\obj\Debug\Crawler.Form1.resources
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\obj\Debug\Crawler.Resources.resources
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\obj\Debug\Crawler.vbproj.GenerateResource.Cache
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\obj\Debug\Crawler.exe
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\obj\Debug\Crawler.xml
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\obj\Debug\Crawler.pdb
+c:\users\hatamiarash7\documents\visual studio 2015\Projects\Crawler\Crawler\obj\Debug\Crawler.Form2.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.exe
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.xml
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.pdb
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Debug\Crawler.exe
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Debug\Crawler.pdb
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Debug\Crawler.xml
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.vbprojResolveAssemblyReference.cache
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.Resources.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.vbproj.GenerateResource.Cache
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.Main.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.SiteManager.resources
