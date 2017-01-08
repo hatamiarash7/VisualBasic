@@ -22,6 +22,16 @@ Crawler
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="M:Crawler.KeyWordList.LoadAllData">
+ <summary>
+ Read From Database
+ </summary>
+</member>
+<member name="M:Crawler.KeyWordList.ShowMe(System.String)">
+ <summary>
+ Show This Form With Parent Theme
+ </summary>
+</member>
 <member name="M:Crawler.KeyWordManager.Button1_Click(System.Object,System.EventArgs)">
  <summary>
  Add Item To List
@@ -55,6 +65,16 @@ Crawler
 <member name="M:Crawler.KeyWordManager.LoadAllData">
  <summary>
  Read From Database
+ </summary>
+</member>
+<member name="M:Crawler.SiteList.LoadAllData">
+ <summary>
+ Read From Database
+ </summary>
+</member>
+<member name="M:Crawler.SiteList.ShowMe(System.String)">
+ <summary>
+ Show This Form With Parent Theme
  </summary>
 </member>
 <member name="M:Crawler.SiteManager.Button1_Click(System.Object,System.EventArgs)">

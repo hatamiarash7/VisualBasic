@@ -17,8 +17,8 @@ C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Cra
 C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Debug\Crawler.exe
 C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Debug\Crawler.pdb
 C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Debug\Crawler.xml
-C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.vbprojResolveAssemblyReference.cache
 C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.Resources.resources
 C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.vbproj.GenerateResource.Cache
 C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.Main.resources
 C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.SiteManager.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Debug\Crawler.KeyWordManager.resources

@@ -22,5 +22,80 @@ Crawler
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="M:Crawler.KeyWordManager.Button1_Click(System.Object,System.EventArgs)">
+ <summary>
+ Add Item To List
+ </summary>
+</member>
+<member name="M:Crawler.KeyWordManager.Button2_Click(System.Object,System.EventArgs)">
+ <summary>
+ Edit Item From List
+ </summary>
+</member>
+<member name="M:Crawler.KeyWordManager.SaveAllData">
+ <summary>
+ Add All Items To ListBoxes
+ </summary>
+</member>
+<member name="M:Crawler.KeyWordManager.ShowMe(System.String)">
+ <summary>
+ Show This Form With Parent Theme
+ </summary>
+</member>
+<member name="M:Crawler.KeyWordManager.Button4_Click(System.Object,System.EventArgs)">
+ <summary>
+ Add To Database
+ </summary>
+</member>
+<member name="M:Crawler.KeyWordManager.Button3_Click(System.Object,System.EventArgs)">
+ <summary>
+ Remove Item From List
+ </summary>
+</member>
+<member name="M:Crawler.KeyWordManager.LoadAllData">
+ <summary>
+ Read From Database
+ </summary>
+</member>
+<member name="M:Crawler.SiteManager.Button1_Click(System.Object,System.EventArgs)">
+ <summary>
+ Add Item To List
+ </summary>
+</member>
+<member name="M:Crawler.SiteManager.ConvertToURL(System.String)">
+ <summary>
+ Convert Normal Texts To Standard URL
+ </summary>
+</member>
+<member name="M:Crawler.SiteManager.Button2_Click(System.Object,System.EventArgs)">
+ <summary>
+ Edit Item From List
+ </summary>
+</member>
+<member name="M:Crawler.SiteManager.Button3_Click(System.Object,System.EventArgs)">
+ <summary>
+ Remove Item From List
+ </summary>
+</member>
+<member name="M:Crawler.SiteManager.Button4_Click(System.Object,System.EventArgs)">
+ <summary>
+ Add To Database
+ </summary>
+</member>
+<member name="M:Crawler.SiteManager.LoadAllData">
+ <summary>
+ Read From Database
+ </summary>
+</member>
+<member name="M:Crawler.SiteManager.SaveAllData">
+ <summary>
+ Add All Items To ListBoxes
+ </summary>
+</member>
+<member name="M:Crawler.SiteManager.ShowMe(System.String)">
+ <summary>
+ Show This Form With Parent Theme
+ </summary>
+</member>
 </members>
 </doc>

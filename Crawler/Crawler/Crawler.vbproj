@@ -88,17 +88,36 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.vb">
+    <Compile Include="KeyWord.vb" />
+    <Compile Include="KeyWordList.Designer.vb">
+      <DependentUpon>KeyWordList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KeyWordList.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <Compile Include="KeyWordManager.Designer.vb">
+      <DependentUpon>KeyWordManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KeyWordManager.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.vb">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.vb">
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiteList.Designer.vb">
+      <DependentUpon>SiteList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SiteList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiteManager.Designer.vb">
+      <DependentUpon>SiteManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SiteManager.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -116,13 +135,25 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Site.vb" />
+    <Compile Include="SQL.vb" />
+    <Compile Include="Theme.vb" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <EmbeddedResource Include="KeyWordList.resx">
+      <DependentUpon>KeyWordList.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <EmbeddedResource Include="KeyWordManager.resx">
+      <DependentUpon>KeyWordManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiteList.resx">
+      <DependentUpon>SiteList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiteManager.resx">
+      <DependentUpon>SiteManager.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

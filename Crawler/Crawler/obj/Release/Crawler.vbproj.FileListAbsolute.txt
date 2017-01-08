@@ -1,0 +1,15 @@
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Release\Crawler.exe.config
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Release\Crawler.exe
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Release\Crawler.pdb
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\bin\Release\Crawler.xml
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.KeyWordManager.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.Main.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.SiteManager.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.Resources.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.vbproj.GenerateResource.Cache
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.exe
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.xml
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.pdb
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.vbprojResolveAssemblyReference.cache
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.SiteList.resources
+C:\Users\hatamiarash7\Documents\GitHub\VisualBasic\Crawler\Crawler\obj\Release\Crawler.KeyWordList.resources

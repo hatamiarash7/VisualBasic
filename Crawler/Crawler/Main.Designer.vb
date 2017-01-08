@@ -35,21 +35,31 @@ Partial Class Main
         Me.ThemeBlack = New System.Windows.Forms.ToolStripMenuItem()
         Me.مدیریتToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.لیستسایتهاToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.لیستلغاتکلیدیToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.پایگاهدادهToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.پشتیبانگیریToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.بازیابیToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.دربارهToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.توضیحاتToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.وبسایتToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.ListBox1 = New System.Windows.Forms.ListBox()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.GroupBox2 = New System.Windows.Forms.GroupBox()
+        Me.ListBox2 = New System.Windows.Forms.ListBox()
         Me.MenuStrip1.SuspendLayout()
+        Me.GroupBox1.SuspendLayout()
+        Me.GroupBox2.SuspendLayout()
         Me.SuspendLayout()
         '
         'MenuStrip1
         '
+        Me.MenuStrip1.Font = New System.Drawing.Font("Calibri", 11.0!)
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripMenuItem1, Me.ViewToolStripMenuItem, Me.مدیریتToolStripMenuItem, Me.پایگاهدادهToolStripMenuItem, Me.دربارهToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
-        Me.MenuStrip1.Size = New System.Drawing.Size(1084, 24)
+        Me.MenuStrip1.Size = New System.Drawing.Size(1084, 26)
         Me.MenuStrip1.TabIndex = 0
         Me.MenuStrip1.Text = "MenuStrip1"
         '
@@ -118,7 +128,7 @@ Partial Class Main
         '
         'مدیریتToolStripMenuItem
         '
-        Me.مدیریتToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.لیستسایتهاToolStripMenuItem})
+        Me.مدیریتToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.لیستسایتهاToolStripMenuItem, Me.لیستلغاتکلیدیToolStripMenuItem})
         Me.مدیریتToolStripMenuItem.Name = "مدیریتToolStripMenuItem"
         Me.مدیریتToolStripMenuItem.Size = New System.Drawing.Size(57, 20)
         Me.مدیریتToolStripMenuItem.Text = "مدیریت"
@@ -126,8 +136,14 @@ Partial Class Main
         'لیستسایتهاToolStripMenuItem
         '
         Me.لیستسایتهاToolStripMenuItem.Name = "لیستسایتهاToolStripMenuItem"
-        Me.لیستسایتهاToolStripMenuItem.Size = New System.Drawing.Size(148, 22)
+        Me.لیستسایتهاToolStripMenuItem.Size = New System.Drawing.Size(163, 22)
         Me.لیستسایتهاToolStripMenuItem.Text = "لیست سایت ها"
+        '
+        'لیستلغاتکلیدیToolStripMenuItem
+        '
+        Me.لیستلغاتکلیدیToolStripMenuItem.Name = "لیستلغاتکلیدیToolStripMenuItem"
+        Me.لیستلغاتکلیدیToolStripMenuItem.Size = New System.Drawing.Size(163, 22)
+        Me.لیستلغاتکلیدیToolStripMenuItem.Text = "لیست لغات کلیدی"
         '
         'پایگاهدادهToolStripMenuItem
         '
@@ -167,17 +183,96 @@ Partial Class Main
         Me.وبسایتToolStripMenuItem.Size = New System.Drawing.Size(122, 22)
         Me.وبسایتToolStripMenuItem.Text = "وب سایت"
         '
+        'Button1
+        '
+        Me.Button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.Button1.Font = New System.Drawing.Font("Calibri", 14.25!)
+        Me.Button1.Location = New System.Drawing.Point(854, 37)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(218, 38)
+        Me.Button1.TabIndex = 1
+        Me.Button1.Text = "انتخاب سایت ها"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'GroupBox1
+        '
+        Me.GroupBox1.BackColor = System.Drawing.Color.White
+        Me.GroupBox1.Controls.Add(Me.ListBox1)
+        Me.GroupBox1.Font = New System.Drawing.Font("Calibri", 10.0!)
+        Me.GroupBox1.Location = New System.Drawing.Point(854, 81)
+        Me.GroupBox1.Name = "GroupBox1"
+        Me.GroupBox1.RightToLeft = System.Windows.Forms.RightToLeft.Yes
+        Me.GroupBox1.Size = New System.Drawing.Size(218, 267)
+        Me.GroupBox1.TabIndex = 2
+        Me.GroupBox1.TabStop = False
+        Me.GroupBox1.Text = "سایت ها"
+        '
+        'ListBox1
+        '
+        Me.ListBox1.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.ListBox1.Font = New System.Drawing.Font("Calibri", 13.0!)
+        Me.ListBox1.FormattingEnabled = True
+        Me.ListBox1.ItemHeight = 21
+        Me.ListBox1.Location = New System.Drawing.Point(6, 23)
+        Me.ListBox1.Name = "ListBox1"
+        Me.ListBox1.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.ListBox1.Size = New System.Drawing.Size(206, 231)
+        Me.ListBox1.TabIndex = 0
+        '
+        'Button2
+        '
+        Me.Button2.Font = New System.Drawing.Font("Calibri", 14.25!)
+        Me.Button2.Location = New System.Drawing.Point(675, 37)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(168, 38)
+        Me.Button2.TabIndex = 3
+        Me.Button2.Text = "انتخاب لغت ها"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
+        'GroupBox2
+        '
+        Me.GroupBox2.BackColor = System.Drawing.Color.White
+        Me.GroupBox2.Controls.Add(Me.ListBox2)
+        Me.GroupBox2.Font = New System.Drawing.Font("Calibri", 10.0!)
+        Me.GroupBox2.Location = New System.Drawing.Point(675, 81)
+        Me.GroupBox2.Name = "GroupBox2"
+        Me.GroupBox2.RightToLeft = System.Windows.Forms.RightToLeft.Yes
+        Me.GroupBox2.Size = New System.Drawing.Size(168, 267)
+        Me.GroupBox2.TabIndex = 3
+        Me.GroupBox2.TabStop = False
+        Me.GroupBox2.Text = "لغت ها"
+        '
+        'ListBox2
+        '
+        Me.ListBox2.BorderStyle = System.Windows.Forms.BorderStyle.None
+        Me.ListBox2.Font = New System.Drawing.Font("Calibri", 13.0!)
+        Me.ListBox2.FormattingEnabled = True
+        Me.ListBox2.ItemHeight = 21
+        Me.ListBox2.Location = New System.Drawing.Point(6, 23)
+        Me.ListBox2.Name = "ListBox2"
+        Me.ListBox2.RightToLeft = System.Windows.Forms.RightToLeft.Yes
+        Me.ListBox2.Size = New System.Drawing.Size(156, 231)
+        Me.ListBox2.TabIndex = 0
+        '
         'Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(1084, 611)
+        Me.Controls.Add(Me.GroupBox2)
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.GroupBox1)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.MenuStrip1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Name = "Main"
         Me.Text = "Form1"
         Me.MenuStrip1.ResumeLayout(False)
         Me.MenuStrip1.PerformLayout()
+        Me.GroupBox1.ResumeLayout(False)
+        Me.GroupBox2.ResumeLayout(False)
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -202,4 +297,11 @@ Partial Class Main
     Friend WithEvents وبسایتToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents مدیریتToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents لیستسایتهاToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents لیستلغاتکلیدیToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents Button1 As Button
+    Friend WithEvents GroupBox1 As GroupBox
+    Friend WithEvents ListBox1 As ListBox
+    Friend WithEvents Button2 As Button
+    Friend WithEvents GroupBox2 As GroupBox
+    Friend WithEvents ListBox2 As ListBox
 End Class
